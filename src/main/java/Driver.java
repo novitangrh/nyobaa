@@ -12,6 +12,10 @@ public class Driver {
 
         System.out.println("Hasil setelah ditambah 9: " + kalkulator.dapatkanHasil());
 
+        kalkulator.tambah(3); 
+
+        System.out.println("Hasil setelah ditambah 9: " + kalkulator.dapatkanHasil());
+
         kalkulator.kali(2);
 
         System.out.println("Hasil setelah dikalikan 2: " + kalkulator.dapatkanHasil());
