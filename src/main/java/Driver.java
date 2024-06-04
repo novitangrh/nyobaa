@@ -14,7 +14,7 @@ public class Driver {
 
         kalkulator.kali(2);
 
-        System.out.println("Hasil setelah dikalikan 2: " + kalkulator.dapatkanHasil());
+        System.out.println("Hasil b setelah dikalikan 2: " + kalkulator.dapatkanHasil());
 
     }
 }
