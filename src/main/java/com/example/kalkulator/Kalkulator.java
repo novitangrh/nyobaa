@@ -12,7 +12,7 @@ public class Kalkulator {
     }
 
     public void tambah(int bilangan) {
-        hasil += bilangan;
+        hasil += bilangan + 1;
     }
 
     public void kurang(int bilangan) {
